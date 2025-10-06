@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi, I'm Naveen Patil 👋</h1>
-<h3 align="center">CSE Undergrad | Cybersecurity & AI Specialist | Competitive Programmer | Aspiring Tech Entrepreneur</h3>
+<h3 align="center">CSE Undergrad | AI × Cybersecurity Innovator | Hackathon Leader | Future Tech Entrepreneur | Competitive Programmer | Open Source Contributer</h3>
 
 ---
 
