@@ -26,7 +26,7 @@ A multi-agent system where a **Security Agent** audits, patches, and validates L
 **Status:** MVP in progress — expected release December 2025.  
 **Focus:** Secure-by-design pipelines for AI-generated code.
 
-🔗 *Repo coming soon*
+https://github.com/InfoNaveen/DEVSENTINEL-AI.git
 
 ---
 
@@ -36,7 +36,7 @@ Transforms OWASP security logs into **clear, founder-friendly remediation insigh
 **Impact:** Helps non-security founders understand and fix vulnerabilities 10× faster.  
 **Built:** Solo, using AI-assisted engineering.
 
-🔗 https://github.com/InfoNaveen/Startup_Surakshate
+🔗 [https://github.com/InfoNaveen/Startup_Surakshate](https://github.com/InfoNaveen/Startup-Surakshate.git)
 
 ---
 
@@ -45,7 +45,7 @@ Evaluates teaching sessions using **audio + video + text + RAG**.
 **Tech:** Next.js, Python, Whisper, OpenCV, RAG pipelines.  
 **Impact:** Reduces manual content evaluation time by 90%.
 
-🔗 https://github.com/InfoNaveen/Mentora (optional if public)
+🔗 *Repo coming soon*
 
 ---
 
