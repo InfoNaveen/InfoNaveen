@@ -26,7 +26,7 @@ A multi-agent system where a **Security Agent** audits, patches, and validates L
 **Status:** MVP in progress — expected release December 2025.  
 **Focus:** Secure-by-design pipelines for AI-generated code.
 
-https://github.com/InfoNaveen/DEVSENTINEL-AI.git
+🔗 https://github.com/InfoNaveen/DEVSENTINEL-AI.git
 
 ---
 
