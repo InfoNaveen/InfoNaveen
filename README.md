@@ -1,70 +1,109 @@
-<!-- GitHub Profile README -->
+<!-- PRO GitHub Profile README -->
 
-<h1 align="center">Hi, I'm Naveen Patil 👋</h1>
-<h3 align="center">CSE Undergrad | AI × Cybersecurity Innovator | Hackathon Leader | Future Tech Entrepreneur | Competitive Programmer | Open Source Contributer</h3>
+<h1 align="center">Naveen Patil</h1>
+<h3 align="center">AI Security Researcher | Founder – DevSentinel AI | Secure Autonomous Systems | Offensive Security</h3>
 
----
-
-## 🚀 About Me
-- Exploring **Cybersecurity + AI/ML + Data Science** to solve real-world challenges  
-- Experienced in **penetration testing, threat analysis, firewall & IDS/IPS configuration**  
-- Practicing **DSA & Competitive Programming** (Java | Python | C)  
-- Passionate about **hackathons, secure apps, and building scalable products**  
-
----
-
-## 💻 Tech Stack  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,nodejs,express,react,mongodb,git,linux,docker,vscode" height="40"/>
-</p>
-
-### Core Skills
-- **Cybersecurity & Ethical Hacking**: Vulnerability Assessment, Secure App Design, Network Security  
-- **AI/ML & Automation**: TensorFlow, Scikit-learn, OpenCV, AI-assisted coding  
-- **Data Science & Visualization**: Pandas, NumPy, Matplotlib, Real-time Analytics  
-
----
-
-## 📬 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/naveen-patil-3618b221a">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35"/>
-  </a>
-  <a href="https://x.com/Naveen07Patil">
-    <img src="https://cdn.simpleicons.org/x/000000/ffffff" alt="X" height="35"/>
-  </a>
-  <a href="https://www.quora.com/profile/Naveen-Patil-158">
-    <img src="https://cdn.simpleicons.org/quora/B92B27/ffffff" alt="Quora" height="35"/>
-  </a>
-  <a href="https://unstop.com/u/naveepat73782">
-    <img src="https://cdn.simpleicons.org/unity/000000/ffffff" alt="Unstop" height="35"/>
-  </a>
-  <a href="https://www.instagram.com/naveen.patil_1">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="35"/>
-  </a>
+  <img src="https://img.shields.io/badge/AI%20Security-Adversarial%20ML-blue?style=flat&logo=shield" />
+  <img src="https://img.shields.io/badge/Founder-Builder-orange?style=flat&logo=rocket" />
+  <img src="https://img.shields.io/badge/Cybersecurity-OffSec%20%26%20Red%20Teaming-red?style=flat&logo=linux" />
 </p>
 
 ---
 
-## 🌟 Highlights
-- **Top 10 Hackathon Finisher** (national-level)  
-- **AI + Cybersecurity Projects**: end-to-end secure applications  
-- **Open-Source Contributor**: integrating AI & security best practices  
-- **Competitive Programmer**: solving complex problems under constraints  
+## 🔥 About Me  
+I engineer **secure autonomous systems** by combining **AI Security, LLM Red Teaming, Multi-Agent Systems**, and **Offensive Security tactics**.  
+I build technologies that **audit, defend, and secure the next generation of AI-driven software**.
+
+I believe security is not a patch — it’s architecture.
 
 ---
 
-## 🎯 Goals
-- Build **secure, intelligent, scalable solutions**  
-- Become a **cybersecurity & AI entrepreneur**  
-- Mentor & inspire others in **tech, security, and AI innovation**  
+# 🚀 Flagship Projects (Top 3)
+## 🔐 **DevSentinel AI — Autonomous Secure Development Mesh**
+A multi-agent system where a **Security Agent** audits, patches, and validates LLM-generated code before it’s deployed.  
+**Tech:** Next.js, TypeScript, Supabase, Snyk API, Gemini 1.5 Pro, AI SDK.  
+**Status:** MVP in progress — expected release December 2025.  
+**Focus:** Secure-by-design pipelines for AI-generated code.
 
-
-## 🏆 Hackathon Highlights  
-- Achieved **top positions in 7+ hackathons** across diverse domains  
-- Built projects combining **AI, Cybersecurity, IoT, Web Development, and Data Science**  
-- Led and collaborated with teams on **end-to-end product development**  
+🔗 *Repo coming soon*
 
 ---
 
-<h3 align="center">⚡ Curious. Building. One step ahead. ⚡</h3>
+## 🛡 **Startup Surakshate — AI Cybersecurity Automation Engine**  
+Transforms OWASP security logs into **clear, founder-friendly remediation insights**.  
+**Tech:** Python, FastAPI, Custom LLM-based log interpreter, MongoDB.  
+**Impact:** Helps non-security founders understand and fix vulnerabilities 10× faster.  
+**Built:** Solo, using AI-assisted engineering.
+
+🔗 https://github.com/InfoNaveen/Startup_Surakshate
+
+---
+
+## 🎓 **Mentora — Multimodal AI Educator Evaluation System**  
+Evaluates teaching sessions using **audio + video + text + RAG**.  
+**Tech:** Next.js, Python, Whisper, OpenCV, RAG pipelines.  
+**Impact:** Reduces manual content evaluation time by 90%.
+
+🔗 https://github.com/InfoNaveen/Mentora (optional if public)
+
+---
+
+# 🧠 Research Interests  
+- **Adversarial Machine Learning**  
+- **LLM Vulnerabilities & Red Teaming**  
+- **Agentic Misalignment Defense**  
+- **Prompt Injection Hardening**  
+- **Secure Multi-Agent Workflows**  
+- **Secure LLM Deployment Pipelines**  
+
+---
+
+# 🛠 Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,ts,js,nodejs,fastapi,react,nextjs,git,linux,docker,tensorflow,opencv,postgres,mongodb,supabase" height="40">
+</p>
+
+### Core Engineering Skills
+- AI Security (Adversarial ML, Red Teaming, Prompt Injection Defense)  
+- AI Engineering (RAG, Multi-Agent Systems, LLM Automation)  
+- Offensive Security (BurpSuite, Network Forensics, CTFs)  
+- Full-Stack Dev (FastAPI, Node.js, Next.js, MongoDB, Supabase)  
+
+---
+
+# 🏆 Achievements
+- Ranked **#18** — Intruverse CTF (Web + Forensics)  
+- **Top 10** in 7+ national hackathons  
+- Built **3 MVP-level products solo** using AI automation  
+- Presented projects at AWS, Google GDG, and national-level events  
+- Active GitHub contributor across AI + Cybersecurity  
+
+---
+
+# 📊 GitHub Activity  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InfoNaveen&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=InfoNaveen&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfoNaveen&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+# 📬 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/naveen-patil-3618b221a"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
+  <a href="https://x.com/Naveen07Patil"><img src="https://cdn.simpleicons.org/x/000000/ffffff" height="35"/></a>
+  <a href="https://www.quora.com/profile/Naveen-Patil-158"><img src="https://cdn.simpleicons.org/quora/B92B27/ffffff" height="35"/></a>
+</p>
+
+---
+
+<h3 align="center">⚡ Building Secure Autonomous Systems — One Step Ahead ⚡</h3>
+
