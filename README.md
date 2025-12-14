@@ -1,61 +1,32 @@
 <!-- PRO GitHub Profile README -->
+<h1 align="center">
+  <svg width="30" height="30" viewBox="0 0 100 100" style="vertical-align: middle;">
+    <style>
+      .hand { 
+        transform-origin: 50% 50%;
+        transition: transform 0.6s ease;
+      }
+      svg:hover .minute {
+        transform: rotate(360deg);
+      }
+      svg:hover .hour {
+        transform: rotate(180deg);
+      }
+    </style>
 
-<p align="center">
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="400"
-     height="400"
-     viewBox="0 0 400 400">
+    <!-- Clock circle -->
+    <circle cx="50" cy="50" r="45" fill="none" stroke="#58a6ff" stroke-width="6"/>
 
-  <!-- Background -->
-  <circle cx="200" cy="200" r="198" fill="#0d1117"/>
+    <!-- Hour hand -->
+    <line class="hand hour" x1="50" y1="50" x2="50" y2="30"
+          stroke="#c9d1d9" stroke-width="6"/>
 
-  <!-- Outer Ring -->
-  <circle cx="200" cy="200" r="160"
-          fill="none"
-          stroke="#30363d"
-          stroke-width="6"
-          stroke-dasharray="10 8"/>
-
-  <!-- Middle Ring -->
-  <circle cx="200" cy="200" r="130"
-          fill="none"
-          stroke="#58a6ff"
-          stroke-width="4"
-          stroke-dasharray="4 6"/>
-
-  <!-- Inner Ring -->
-  <circle cx="200" cy="200" r="100"
-          fill="none"
-          stroke="#2ea043"
-          stroke-width="3"
-          stroke-dasharray="2 5"/>
-
-  <!-- Core -->
-  <circle cx="200" cy="200" r="70"
-          fill="#0d1117"
-          stroke="#8b949e"
-          stroke-width="2"/>
-
-  <!-- Name -->
-  <text x="200" y="195"
-        text-anchor="middle"
-        fill="#c9d1d9"
-        font-size="20"
-        font-family="monospace">
-    NAVEEN PATIL
-  </text>
-
-  <!-- Tagline -->
-  <text x="200" y="220"
-        text-anchor="middle"
-        fill="#8b949e"
-        font-size="12"
-        font-family="monospace">
-    AI • SECURITY • SYSTEMS
-  </text>
-
-</svg>
-</p>
+    <!-- Minute hand -->
+    <line class="hand minute" x1="50" y1="50" x2="70" y2="50"
+          stroke="#c9d1d9" stroke-width="4"/>
+  </svg>
+  Naveen Patil
+</h1>
 
 
 <h3 align="center">AI Security Researcher | Founder – DevSentinel AI | Secure Autonomous Systems | Offensive Security</h3>
