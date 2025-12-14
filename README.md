@@ -1,36 +1,43 @@
 <!-- PRO GitHub Profile README -->
 
 <p align="center">
-<svg width="420" height="420" viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg">
-  
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="400"
+     height="400"
+     viewBox="0 0 400 400">
+
   <!-- Background -->
-  <rect width="420" height="420" fill="#0d1117"/>
+  <circle cx="200" cy="200" r="198" fill="#0d1117"/>
 
   <!-- Outer Ring -->
-  <circle cx="210" cy="210" r="170"
-          stroke="#30363d" stroke-width="6"
+  <circle cx="200" cy="200" r="160"
           fill="none"
-          stroke-dasharray="12 10"/>
+          stroke="#30363d"
+          stroke-width="6"
+          stroke-dasharray="10 8"/>
 
-  <!-- Month Ring -->
-  <circle cx="210" cy="210" r="140"
-          stroke="#58a6ff" stroke-width="4"
+  <!-- Middle Ring -->
+  <circle cx="200" cy="200" r="130"
           fill="none"
-          stroke-dasharray="4 8"/>
+          stroke="#58a6ff"
+          stroke-width="4"
+          stroke-dasharray="4 6"/>
 
-  <!-- Day Ring -->
-  <circle cx="210" cy="210" r="115"
-          stroke="#2ea043" stroke-width="3"
+  <!-- Inner Ring -->
+  <circle cx="200" cy="200" r="100"
           fill="none"
-          stroke-dasharray="2 6"/>
+          stroke="#2ea043"
+          stroke-width="3"
+          stroke-dasharray="2 5"/>
 
-  <!-- Inner Core -->
-  <circle cx="210" cy="210" r="85"
-          stroke="#8b949e" stroke-width="2"
-          fill="#0d1117"/>
+  <!-- Core -->
+  <circle cx="200" cy="200" r="70"
+          fill="#0d1117"
+          stroke="#8b949e"
+          stroke-width="2"/>
 
-  <!-- Center Text -->
-  <text x="210" y="205"
+  <!-- Name -->
+  <text x="200" y="195"
         text-anchor="middle"
         fill="#c9d1d9"
         font-size="20"
@@ -38,25 +45,18 @@
     NAVEEN PATIL
   </text>
 
-  <text x="210" y="230"
+  <!-- Tagline -->
+  <text x="200" y="220"
         text-anchor="middle"
         fill="#8b949e"
         font-size="12"
         font-family="monospace">
-    BUILD • BREAK • SECURE
-  </text>
-
-  <!-- Top Label -->
-  <text x="210" y="28"
-        text-anchor="middle"
-        fill="#7d8590"
-        font-size="10"
-        font-family="monospace">
-    TIME-DRIVEN ENGINEERING
+    AI • SECURITY • SYSTEMS
   </text>
 
 </svg>
 </p>
+
 
 <h3 align="center">AI Security Researcher | Founder – DevSentinel AI | Secure Autonomous Systems | Offensive Security</h3>
 
