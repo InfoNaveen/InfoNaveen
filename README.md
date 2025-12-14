@@ -1,33 +1,32 @@
 <!-- PRO GitHub Profile README -->
 <h1 align="center">
-  <svg width="30" height="30" viewBox="0 0 100 100" style="vertical-align: middle;">
-    <style>
-      .hand { 
-        transform-origin: 50% 50%;
-        transition: transform 0.6s ease;
-      }
-      svg:hover .minute {
-        transform: rotate(360deg);
-      }
-      svg:hover .hour {
-        transform: rotate(180deg);
-      }
-    </style>
-
-    <!-- Clock circle -->
-    <circle cx="50" cy="50" r="45" fill="none" stroke="#58a6ff" stroke-width="6"/>
-
-    <!-- Hour hand -->
-    <line class="hand hour" x1="50" y1="50" x2="50" y2="30"
-          stroke="#c9d1d9" stroke-width="6"/>
-
-    <!-- Minute hand -->
-    <line class="hand minute" x1="50" y1="50" x2="70" y2="50"
-          stroke="#c9d1d9" stroke-width="4"/>
-  </svg>
+  <span class="clock">
+    <svg width="28" height="28" viewBox="0 0 100 100">
+      <circle cx="50" cy="50" r="45" fill="none" stroke="#58a6ff" stroke-width="6"/>
+      <line class="hour" x1="50" y1="50" x2="50" y2="30"/>
+      <line class="minute" x1="50" y1="50" x2="72" y2="50"/>
+    </svg>
+  </span>
   Naveen Patil
 </h1>
 
+<style>
+.clock svg {
+  vertical-align: middle;
+}
+.clock line {
+  stroke: #c9d1d9;
+  stroke-width: 6;
+  transform-origin: 50% 50%;
+  transition: transform 0.6s ease;
+}
+.clock:hover .hour {
+  transform: rotate(60deg);
+}
+.clock:hover .minute {
+  transform: rotate(300deg);
+}
+</style>
 
 <h3 align="center">AI Security Researcher | Founder – DevSentinel AI | Secure Autonomous Systems | Offensive Security</h3>
 
