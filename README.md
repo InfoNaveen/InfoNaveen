@@ -1,6 +1,63 @@
 <!-- PRO GitHub Profile README -->
 
-<h1 align="center">Naveen Patil</h1>
+<p align="center">
+<svg width="420" height="420" viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg">
+  
+  <!-- Background -->
+  <rect width="420" height="420" fill="#0d1117"/>
+
+  <!-- Outer Ring -->
+  <circle cx="210" cy="210" r="170"
+          stroke="#30363d" stroke-width="6"
+          fill="none"
+          stroke-dasharray="12 10"/>
+
+  <!-- Month Ring -->
+  <circle cx="210" cy="210" r="140"
+          stroke="#58a6ff" stroke-width="4"
+          fill="none"
+          stroke-dasharray="4 8"/>
+
+  <!-- Day Ring -->
+  <circle cx="210" cy="210" r="115"
+          stroke="#2ea043" stroke-width="3"
+          fill="none"
+          stroke-dasharray="2 6"/>
+
+  <!-- Inner Core -->
+  <circle cx="210" cy="210" r="85"
+          stroke="#8b949e" stroke-width="2"
+          fill="#0d1117"/>
+
+  <!-- Center Text -->
+  <text x="210" y="205"
+        text-anchor="middle"
+        fill="#c9d1d9"
+        font-size="20"
+        font-family="monospace">
+    NAVEEN PATIL
+  </text>
+
+  <text x="210" y="230"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="12"
+        font-family="monospace">
+    BUILD • BREAK • SECURE
+  </text>
+
+  <!-- Top Label -->
+  <text x="210" y="28"
+        text-anchor="middle"
+        fill="#7d8590"
+        font-size="10"
+        font-family="monospace">
+    TIME-DRIVEN ENGINEERING
+  </text>
+
+</svg>
+</p>
+
 <h3 align="center">AI Security Researcher | Founder – DevSentinel AI | Secure Autonomous Systems | Offensive Security</h3>
 
 <p align="center">
