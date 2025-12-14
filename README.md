@@ -1,32 +1,11 @@
 <!-- PRO GitHub Profile README -->
 <h1 align="center">
-  <span class="clock">
-    <svg width="28" height="28" viewBox="0 0 100 100">
-      <circle cx="50" cy="50" r="45" fill="none" stroke="#58a6ff" stroke-width="6"/>
-      <line class="hour" x1="50" y1="50" x2="50" y2="30"/>
-      <line class="minute" x1="50" y1="50" x2="72" y2="50"/>
-    </svg>
-  </span>
   Naveen Patil
 </h1>
+<p align="center">
+  <code>time.build.secure()</code>
+</p>
 
-<style>
-.clock svg {
-  vertical-align: middle;
-}
-.clock line {
-  stroke: #c9d1d9;
-  stroke-width: 6;
-  transform-origin: 50% 50%;
-  transition: transform 0.6s ease;
-}
-.clock:hover .hour {
-  transform: rotate(60deg);
-}
-.clock:hover .minute {
-  transform: rotate(300deg);
-}
-</style>
 
 <h3 align="center">AI Security Researcher | Founder – DevSentinel AI | Secure Autonomous Systems | Offensive Security</h3>
 
