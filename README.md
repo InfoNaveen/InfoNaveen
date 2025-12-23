@@ -58,7 +58,7 @@ A multimodal evaluation system that analyzes **audio, video, and content accurac
 **Impact:** Cuts manual teaching evaluation time by ~90%  
 **Status:** Hackathon MVP under active development
 
-🔗 [Repository coming soon](https://github.com/InfoNaveen/Mentora_AWS_ImpactX.git)
+🔗 [Mentora](https://github.com/InfoNaveen/Mentora_AWS_ImpactX.git)
 
 ---
 
