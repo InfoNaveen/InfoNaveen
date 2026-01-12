@@ -1,12 +1,17 @@
-<!-- PRO GitHub Profile README -->
+<!-- ===================== -->
+<!-- GitHub Profile README -->
+<!-- ===================== -->
 
 <h1 align="center">Naveen Patil</h1>
+
 <p align="center">
   <code>design → orchestrate → secure</code>
 </p>
 
 <h3 align="center">
-AI Security Researcher | Founder – DevSentinel AI | Secure Autonomous Systems | Offensive Security
+AI Security Researcher | Founder – DevSentinel AI  
+<br/>
+Secure Autonomous Systems • LLM Red Teaming • Offensive Security
 </h3>
 
 <p align="center">
@@ -18,12 +23,17 @@ AI Security Researcher | Founder – DevSentinel AI | Secure Autonomous Systems 
 ---
 
 ## 🔥 About Me
-I design and build **secure-by-design autonomous systems** at the intersection of  
-**AI Security, LLM Red Teaming, Agentic Workflows, and Offensive Security**.
 
-My focus is not just *using* AI — but **engineering systems where AI outputs are controlled, audited, and explainable**.
+I design and build **secure-by-design autonomous systems** at the intersection of:
 
-I believe security is not a layer you add later — **it is an architectural constraint from day one**.
+- **AI Security**
+- **LLM Red Teaming**
+- **Agentic Workflows**
+- **Offensive Cybersecurity**
+
+My work focuses not just on *using* AI, but on **engineering AI systems whose outputs are controlled, auditable, and explainable**.
+
+> Security is not a feature you add later — **it is an architectural constraint from day one.**
 
 ---
 
@@ -34,31 +44,31 @@ A multi-agent secure development pipeline where a dedicated **Security Agent** a
 
 **Tech:** Next.js, TypeScript, Supabase, Snyk API, Gemini 1.5 Pro  
 **Focus:** Secure-by-design AI development workflows  
-**Status:** MVP in progress
+**Status:** MVP in progress  
 
 🔗 https://github.com/InfoNaveen/DEVSENTINEL-AI.git
 
 ---
 
 ### 🛡 Startup Surakshate — AI Cybersecurity Automation Engine
-An AI-powered engine that converts raw OWASP vulnerability logs into **clear, actionable remediation insights** for startup founders.
+An AI-powered system that converts raw **OWASP vulnerability logs** into **clear, actionable remediation insights** for startup founders.
 
 **Tech:** Python, FastAPI, Custom LLM pipelines, MongoDB  
 **Built:** End-to-end solo using AI-assisted engineering  
-**Impact:** Reduces security triage and understanding time by ~10×
+**Impact:** ~10× reduction in security triage time  
 
 🔗 https://github.com/InfoNaveen/Startup-Surakshate.git
 
 ---
 
 ### 🎓 Mentora — Multimodal AI Teaching Quality Evaluator
-A multimodal evaluation system that analyzes **audio, video, and content accuracy** using RAG-based grounding.
+A multimodal evaluation engine that analyzes **audio, video, and content accuracy** using RAG-based grounding.
 
 **Tech:** Next.js, Python, Whisper, OpenCV, RAG pipelines  
-**Impact:** Cuts manual teaching evaluation time by ~90%  
-**Status:** Hackathon MVP under active development
+**Impact:** ~90% reduction in manual evaluation time  
+**Status:** Hackathon MVP under active development  
 
-🔗 [Mentora](https://github.com/InfoNaveen/Mentora_AWS_ImpactX.git)
+🔗 https://github.com/InfoNaveen/Mentora_AWS_ImpactX.git
 
 ---
 
@@ -73,28 +83,30 @@ A multimodal evaluation system that analyzes **audio, video, and content accurac
 ---
 
 ## 🛠 Tech Stack
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,ts,js,nodejs,fastapi,react,nextjs,git,linux,docker,opencv,postgres,mongodb,supabase" height="40">
 </p>
 
 ### Core Capabilities
 - **AI Security:** Adversarial ML, Prompt Injection Defense, LLM Red Teaming  
-- **AI Engineering:** RAG, Multi-step Orchestration, AI Evaluation Pipelines  
-- **Offensive Security:** Burp Suite, Web Exploitation, Network Forensics  
+- **AI Engineering:** RAG, Multi-step Orchestration, Evaluation Pipelines  
+- **Offensive Security:** Web Exploitation, Burp Suite, Network Forensics  
 - **Backend & Systems:** FastAPI, Node.js, Next.js, Supabase, MongoDB  
 
 ---
 
 ## 🏆 Highlights
 - Ranked **#18** — Intruverse CTF (Web & Forensics)
-- **Top 10 finishes** in 7+ national-level hackathons
-- Built **three MVP-grade systems solo**
+- **Top-10 finishes** in 7+ national-level hackathons
+- Built **multiple MVP-grade systems solo**
 - Presented projects across **AWS, Google GDG, and national tech events**
-- Active GitHub contributor in **AI Security & DevSecOps domains**
+- Active GitHub contributor in **AI Security & DevSecOps**
 
 ---
 
 ## 📊 GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=InfoNaveen&theme=dark&hide_border=true" />
 </p>
@@ -110,6 +122,7 @@ A multimodal evaluation system that analyzes **audio, video, and content accurac
 ---
 
 ## 📬 Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/naveen-patil-3618b221a">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
