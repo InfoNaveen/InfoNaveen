@@ -104,19 +104,27 @@ A multimodal evaluation engine that analyzes **audio, video, and content accurac
 - Active GitHub contributor in **AI Security & DevSecOps**
 
 ---
-
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InfoNaveen&theme=dark&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=InfoNaveen&theme=github-dark&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InfoNaveen&show_icons=true&theme=dark&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=InfoNaveen&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" 
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfoNaveen&layout=compact&theme=dark&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfoNaveen&layout=compact&theme=github_dark&hide_border=true" 
+    alt="Top Languages"
+  />
 </p>
 
 ---
