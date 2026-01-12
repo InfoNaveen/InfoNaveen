@@ -46,7 +46,7 @@ A multi-agent secure development pipeline where a dedicated **Security Agent** a
 **Focus:** Secure-by-design AI development workflows  
 **Status:** MVP in progress  
 
-🔗 https://github.com/InfoNaveen/DEVSENTINEL-AI.git
+- Built and actively developing **[DevSentinel AI](https://github.com/InfoNaveen/DEVSENTINEL-AI.git)** — an autonomous secure development system for AI-generated code
 
 ---
 
@@ -57,7 +57,7 @@ An AI-powered system that converts raw **OWASP vulnerability logs** into **clear
 **Built:** End-to-end solo using AI-assisted engineering  
 **Impact:** ~10× reduction in security triage time  
 
-🔗 https://github.com/InfoNaveen/Startup-Surakshate.git
+- Built **[Startup Surakshate](https://github.com/InfoNaveen/Startup-Surakshate.git)** — an AI-powered cybersecurity automation engine for OWASP vulnerability triage
 
 ---
 
@@ -68,7 +68,7 @@ A multimodal evaluation engine that analyzes **audio, video, and content accurac
 **Impact:** ~90% reduction in manual evaluation time  
 **Status:** Hackathon MVP under active development  
 
-🔗 https://github.com/InfoNaveen/Mentora_AWS_ImpactX.git
+- Built **[Mentora](https://github.com/InfoNaveen/Mentora_AWS_ImpactX.git)** — a multimodal AI system for automated teaching quality evaluation
 
 ---
 
@@ -98,6 +98,7 @@ A multimodal evaluation engine that analyzes **audio, video, and content accurac
 
 ## 🏆 Highlights
 - Ranked **#18** — Intruverse CTF (Web & Forensics)
+- **Top-10 Finalist** — National-level Hackathon at **IIT Bombay Techfest** (selected among several hundred teams)
 - **Top-10 finishes** in 7+ national-level hackathons
 - Built **multiple MVP-grade systems solo**
 - Presented projects across **AWS, Google GDG, and national tech events**
