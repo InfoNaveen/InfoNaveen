@@ -107,24 +107,15 @@ A multimodal evaluation engine that analyzes **audio, video, and content accurac
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=InfoNaveen&theme=github-dark&hide_border=true" 
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=InfoNaveen&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=InfoNaveen&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" 
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfoNaveen&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfoNaveen&layout=compact&theme=github_dark&hide_border=true" 
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfoNaveen&theme=github-dark&hide_border=true" />
 </p>
 
 ---
