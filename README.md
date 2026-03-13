@@ -1,138 +1,225 @@
-<!-- ===================== -->
-<!-- GitHub Profile README -->
-<!-- ===================== -->
+<div align="center">
 
-<h1 align="center">Naveen Patil</h1>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║          NAVEEN PATIL  //  AI SECURITY ENGINEER & FOUNDER        ║
+║          design → orchestrate → secure → repeat                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <code>design → orchestrate → secure</code>
-</p>
+</div>
 
-<h3 align="center">
-AI Security Researcher | Founder – DevSentinel AI  
-<br/>
-Secure Autonomous Systems • LLM Red Teaming • Offensive Security
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Security-Adversarial%20ML-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Founder-Solo%20Builder-orange?style=flat" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Offensive%20%26%20Red%20Team-red?style=flat" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Building+the+immune+system+for+autonomous+AI.;What+happens+when+your+AI+agent+gets+attacked%3F" alt="Typing SVG" />
 
----
+</div>
 
-## 🔥 About Me
+<div align="center">
 
-I design and build **secure-by-design autonomous systems** at the intersection of:
+[![AI Security](https://img.shields.io/badge/AI_Security-LLM_Red_Teaming-22C55E?style=flat-square&logo=shield&logoColor=white)](https://github.com/InfoNaveen)
+[![Founder](https://img.shields.io/badge/Founder-DevSentinel_AI-0EA5E9?style=flat-square&logo=rocket&logoColor=white)](https://github.com/InfoNaveen/DEVSENTINEL-AI)
+[![CTF](https://img.shields.io/badge/CTF-Rank_18%2F74_Intruverse-EF4444?style=flat-square&logo=hackthebox&logoColor=white)](https://github.com/InfoNaveen)
+[![IIT Bombay](https://img.shields.io/badge/AWS_ImpactX-IIT_Bombay_Finalist-F59E0B?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/InfoNaveen)
+[![Profile Views](https://komarev.com/ghpvc/?username=InfoNaveen&style=flat-square&color=22C55E&label=VISITORS)](https://github.com/InfoNaveen)
 
-- **AI Security**
-- **LLM Red Teaming**
-- **Agentic Workflows**
-- **Offensive Cybersecurity**
-
-My work focuses not just on *using* AI, but on **engineering AI systems whose outputs are controlled, auditable, and explainable**.
-
-> Security is not a feature you add later — **it is an architectural constraint from day one.**
+</div>
 
 ---
 
-## 🚀 Flagship Projects
+## `> whoami`
 
-### 🔐 DevSentinel AI — Autonomous Secure Development Mesh
-A multi-agent secure development pipeline where a dedicated **Security Agent** audits and validates LLM-generated code *before* deployment.
+```yaml
+name        : Naveen Patil
+role        : AI Security Engineer + Solo Founder
+location    : Bengaluru, India
+mission     : Build the security layer agentic AI is missing
+age         : 20
+status      : [ BUILDING IN PUBLIC ]
 
-**Tech:** Next.js, TypeScript, Supabase, Snyk API, Gemini 1.5 Pro  
-**Focus:** Secure-by-design AI development workflows  
-**Status:** MVP in progress  
+current_build:
+  - DevSentinel AI      # autonomous secure dev pipeline
+  - Startup Surakshate  # AI vulnerability triage engine
 
-- Built and actively developing **[DevSentinel AI](https://github.com/InfoNaveen/DEVSENTINEL-AI.git)** — an autonomous secure development system for AI-generated code
-
----
-
-### 🛡 Startup Surakshate — AI Cybersecurity Automation Engine
-An AI-powered system that converts raw **OWASP vulnerability logs** into **clear, actionable remediation insights** for startup founders.
-
-**Tech:** Python, FastAPI, Custom LLM pipelines, MongoDB  
-**Built:** End-to-end solo using AI-assisted engineering  
-**Impact:** ~10× reduction in security triage time  
-
-- Built **[Startup Surakshate](https://github.com/InfoNaveen/Startup-Surakshate.git)** — an AI-powered cybersecurity automation engine for OWASP vulnerability triage
+philosophy  : "Security is not a feature you add later.
+               It is an architectural constraint from day one."
+```
 
 ---
 
-### 🎓 Mentora — Multimodal AI Teaching Quality Evaluator
-A multimodal evaluation engine that analyzes **audio, video, and content accuracy** using RAG-based grounding.
+## `> ls ./flagship_projects`
 
-**Tech:** Next.js, Python, Whisper, OpenCV, RAG pipelines  
-**Impact:** ~90% reduction in manual evaluation time  
-**Status:** Hackathon MVP under active development  
-
-- Built **[Mentora](https://github.com/InfoNaveen/Mentora_AWS_ImpactX.git)** — a multimodal AI system for automated teaching quality evaluation
-
----
-
-## 🧠 Research & Technical Interests
-- LLM Vulnerabilities & Prompt Injection
-- Adversarial Machine Learning
-- Secure Multi-Agent Orchestration
-- Agentic Misalignment & Control
-- Explainable AI Evaluation
-- Secure LLM Deployment Pipelines
-
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,ts,js,nodejs,fastapi,react,nextjs,git,linux,docker,opencv,postgres,mongodb,supabase" height="40">
-</p>
-
-### Core Capabilities
-- **AI Security:** Adversarial ML, Prompt Injection Defense, LLM Red Teaming  
-- **AI Engineering:** RAG, Multi-step Orchestration, Evaluation Pipelines  
-- **Offensive Security:** Web Exploitation, Burp Suite, Network Forensics  
-- **Backend & Systems:** FastAPI, Node.js, Next.js, Supabase, MongoDB  
-
----
-
-## 🏆 Highlights
-- Ranked **#18** — Intruverse CTF (Web & Forensics)
-- **Top-10 Finalist** — National-level Hackathon at **IIT Bombay Techfest** (selected among several hundred teams)
-- **Top-10 finishes** in 7+ national-level hackathons
-- Built **multiple MVP-grade systems solo**
-- Presented projects across **AWS, Google GDG, and national tech events**
-- Active GitHub contributor in **AI Security & DevSecOps**
-
----
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=InfoNaveen&theme=github-dark&hide_border=true" 
-  alt="GitHub Contribution Graph"
-/>
+### 🔐 [DevSentinel AI](https://github.com/InfoNaveen/DEVSENTINEL-AI)
+> *Autonomous Secure Development Mesh*
+
+Multi-agent pipeline where a **Security Agent** red-teams, audits, and patches LLM-generated code **before** it ships.
+
+```
+Builder Agent  →  Security Agent  →  Deploy Gate
+     ↓                  ↓                 ↓
+  generates          red-teams         BLOCKED
+   code          vulnerabilities      or APPROVED
+```
+
+**Stack:** `Next.js` `TypeScript` `Gemini 1.5 Pro` `Snyk API` `Supabase` `Azure DevOps`  
+**Impact:** ↓ 40% dev-to-deploy cycle time · Zero manual security review
 
 </td>
-<td width="45%" align="left">
+<td width="50%" valign="top">
+
+### 🛡 [Startup Surakshate](https://github.com/InfoNaveen/Startup-Surakshate) · [Live ↗](https://startup-surakshate.vercel.app)
+> *AI Cybersecurity Engine for Founders*
+
+Scans codebases & websites for vulnerabilities. LLM agent converts raw OWASP logs → severity-rated, actionable fix plans.
+
+```
+GitHub Repo / URL
+       ↓
+  SAST Scanner + AI Triage
+       ↓
+  Fix Plan + PDF Report
+  (10× faster than manual)
+```
+
+**Stack:** `FastAPI` `Python` `GPT-4o` `Supabase` `Docker` `Vercel`  
+**Impact:** ↓ 10× security triage time · Used by early-stage founders
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [Mentora](https://github.com/InfoNaveen/Mentora_AWS_ImpactX) · *AWS ImpactX Finalist, IIT Bombay*
+> *Multimodal AI Teaching Quality Evaluator*
+
+RAG-based evaluation engine that audits **audio clarity**, **visual engagement**, and **content accuracy** in real time.
+
+**Stack:** `Next.js` `Python` `Whisper` `OpenCV` `RAG Pipelines` `AWS`  
+**Impact:** ↓ 90% manual evaluation time
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Offensive Security Research
+> *Hands-on threat analysis & CTF*
+
+- **CTF Rank 18/74** — The Matrix Within, Intruverse @ Atria Institute  
+  *5/6 flags: Web Exploitation + Digital Forensics*
+- **Kalpavikas 1.0** — System Design Top 5, RV University  
+  *Distributed arch for 5,000+ buses · 3M daily commuters*
+- Active in web exploitation, network forensics, Burp Suite workflows
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📬 Connect
+## `> cat ./capabilities.json`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/naveen-patil-3618b221a">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
-  </a>
-  <a href="https://x.com/Naveen07Patil">
-    <img src="https://cdn.simpleicons.org/x/000000/ffffff" height="35"/>
-  </a>
-  <a href="https://www.quora.com/profile/Naveen-Patil-158">
-    <img src="https://cdn.simpleicons.org/quora/B92B27/ffffff" height="35"/>
-  </a>
+```json
+{
+  "ai_security": [
+    "Prompt Injection Defense",
+    "LLM Red Teaming",
+    "Adversarial Machine Learning",
+    "Agentic Misalignment & Control",
+    "Secure Multi-Agent Orchestration"
+  ],
+  "ai_engineering": [
+    "Multi-Agent Orchestration",
+    "RAG Pipeline Architecture",
+    "LangChain / OpenAI / Gemini APIs",
+    "Multimodal AI (Whisper, OpenCV)",
+    "Model Evaluation & Inference"
+  ],
+  "offensive_security": [
+    "Web Exploitation (SQLi, XSS, IDOR)",
+    "OWASP Top 10 Penetration Testing",
+    "Burp Suite / OWASP ZAP / Kali",
+    "Network Forensics (Wireshark)",
+    "CTF: Web & Forensics Tracks"
+  ],
+  "dev_stack": [
+    "Python (FastAPI)",
+    "TypeScript / Next.js / React",
+    "Docker / Azure DevOps / CI-CD",
+    "Supabase / MongoDB / PostgreSQL",
+    "Linux · Git · REST APIs"
+  ]
+}
+```
+
+---
+
+## `> cat ./stack.sh`
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,typescript,java,c,react,nextjs,nodejs,fastapi,docker,linux,git,supabase,mongodb,postgres,opencv,azure" height="38" />
 </p>
 
 ---
 
-<h3 align="center">⚡ Designing Secure AI Systems — With Intent ⚡</h3>
+## `> grep -r "achievements" ./highlights`
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🏆  AWS ImpactX Finalist          IIT Bombay Techfest · 2025   │
+│  🏆  DevHack 7.0 Finalist (Top 5)  IIT Dharwad · 2025          │
+│  🥈  NexCell Mirai Finalist        Top 15/150 · Bengaluru 2025  │
+│  🥈  System Design Top 5           Kalpavikas 1.0 · RVU 2025   │
+│  🔐  CTF Rank 18/74                Intruverse · Nov 2025        │
+│  🌐  Google BuildWithIndia         Top 5K/25K · Jan 2026        │
+│  📡  7+ National Hackathon Finals  AWS · Google · IIT Circuit   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> git log --oneline --graph` *(contribution activity)*
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=InfoNaveen&theme=github-dark&hide_border=true&color=22C55E&line=22C55E&point=ffffff&area=true&area_color=22C55E)
+
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InfoNaveen&show_icons=true&theme=github_dark&hide_border=true&icon_color=22C55E&title_color=22C55E&text_color=94A3B8&bg_color=0D1117)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InfoNaveen&layout=compact&theme=github_dark&hide_border=true&title_color=22C55E&text_color=94A3B8&bg_color=0D1117)
+
+</div>
+
+---
+
+## `> ping ./connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naveen_Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-patil-3618b221a)
+[![X / Twitter](https://img.shields.io/badge/X-@Naveen07Patil-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Naveen07Patil)
+[![Email](https://img.shields.io/badge/Email-naveen.a.patil7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveen.a.patil7@gmail.com)
+[![Linktree](https://img.shields.io/badge/Linktree-@ByNaveen-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ByNaveen)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║   If you're scaling agentic systems and need them unbreakable — ║
+║                    let's build together.                         ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+*20 years old · Building in public · Bengaluru, India*
+
+</div>
