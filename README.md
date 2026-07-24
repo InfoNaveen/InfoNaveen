@@ -1,10 +1,10 @@
 <div align="center">
 
-# Naveen Patil
+## Naveen Patil
 
-Building AI, Security & Developer Tools
+Building intelligent software for security, finance, and real-world problems.
 
-Hackathon Finalist · Open Source Contributor · Computer Science Undergraduate
+Currently exploring AI, cybersecurity, and developer tooling.
 
 </div>
 
@@ -78,9 +78,9 @@ Real-time teaching quality evaluator that scores audio clarity, visual engagemen
 
 ### Now
 
-- Building FinSaathi
-- Learning AI Security
-- Contributing to Open Source
+- Building products that simplify complex decisions
+- Exploring AI security and autonomous systems
+- Contributing to open source that developers actually use
 
 ---
 
