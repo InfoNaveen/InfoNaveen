@@ -42,7 +42,7 @@ Multi-agent AI pipeline that automatically audits, tests, and patches LLM-genera
 
 `Next.js` `Azure OpenAI` `Supabase`
 
-*🏆 Top 5 · Parsec, IIT Dharwad*
+*🏆 Top 5 · DevHack 7.0 Finalist, IIT Dharwad*
 
 <br>
 
