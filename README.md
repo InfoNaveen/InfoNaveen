@@ -32,7 +32,7 @@ Forensic auditing pipeline that detects hidden errors across invoices, purchase 
 
 `Python` `AWS Bedrock` `FastAPI` `Streamlit`
 
-*🏆 Finalist · HyperBots HyperAPI Hackathon 2025*
+*🏆 Finalist · HyperBots HyperAPI Hackathon 2026*
 
 <br>
 
