@@ -1,26 +1,18 @@
 <div align="center">
 
-<br>
-
 # Naveen Patil
 
-<sub>Building AI, Security & Developer Tools</sub>
+Building AI, Security & Developer Tools
 
-<br>
-
-<p align="center">
-<img src="banner.png" width="100%">
-</p>
+Hackathon Finalist · Open Source Contributor · Computer Science Undergraduate
 
 </div>
 
-<br>
+---
 
-Building secure, AI-powered software with a focus on developer tools, cybersecurity, and intelligent systems.
+I build AI-powered products focused on security, developer productivity, and real-world problem solving.
 
-I enjoy turning ambitious ideas into products that people can actually use.
-
-<br>
+---
 
 ### Selected Work
 
@@ -30,8 +22,17 @@ AI-powered financial document analyzer that flags hidden risks in loans, insuran
 
 `Next.js` `TypeScript` `Gemini 2.0 Flash`
 
-Recognition
-Top 10 • Vibe-a-thon 2026
+*🏆 Top 10 · Vibe-a-thon 2026*
+
+<br>
+
+**[FinDoc Intelligence](https://github.com/InfoNaveen/FinDoc_Intelligence)**
+
+Forensic auditing pipeline that detects hidden errors across invoices, purchase orders, and bank statements using OCR and AI-driven validation.
+
+`Python` `AWS Bedrock` `FastAPI` `Streamlit`
+
+*🏆 Finalist · HyperBots HyperAPI Hackathon 2025*
 
 <br>
 
@@ -41,8 +42,7 @@ Multi-agent AI pipeline that automatically audits, tests, and patches LLM-genera
 
 `Next.js` `Azure OpenAI` `Supabase`
 
-Recognition
-Techfest, IIT Bombay
+*🏆 Top 5 · Parsec, IIT Dharwad*
 
 <br>
 
@@ -52,8 +52,7 @@ Decentralized forensics platform that anchors data integrity proofs on-chain and
 
 `Solidity` `Node.js` `Gemini 1.5 Pro`
 
-Recognition
-Google Solution Challenge
+*🏆 Google Solution Challenge*
 
 <br>
 
@@ -63,6 +62,8 @@ Vulnerability scanner that turns raw OWASP output into severity-rated, actionabl
 
 `FastAPI` `GPT-4o` `Docker`
 
+*🏆 Top 7 · Mirai School of Technology Ideathon*
+
 <br>
 
 **[Mentora](https://github.com/InfoNaveen/Mentora_AWS_ImpactX)**
@@ -71,37 +72,34 @@ Real-time teaching quality evaluator that scores audio clarity, visual engagemen
 
 `Whisper` `OpenCV` `RAG`
 
-Recognition
-AWS ImpactX Finalist, IIT Bombay
+*🏆 AWS ImpactX Finalist, IIT Bombay*
 
-<br>
+---
 
-### Current Focus
+### Now
 
 - Building FinSaathi
-- Researching adversarial ML and AI security
-- Learning through hackathons and open source
+- Learning AI Security
+- Contributing to Open Source
 
-<br>
+---
 
-### Tech I Enjoy
+### Philosophy
 
-Java • Python • TypeScript
+Build first.
 
-Next.js • FastAPI • React
+Keep it simple.
 
-Supabase • PostgreSQL • Docker
+Security isn't optional.
 
-Azure OpenAI • Gemini
+Ship before perfect.
 
-<br>
+---
 
 ### Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/naveen-patil-3618b221a) · [X](https://x.com/Naveen07Patil) · [Portfolio](https://naveen-patil.vercel.app) · naveen.a.patil7@gmail.com
 
-<br>
-
-────────────────────────
+---
 
 Building useful software, one project at a time.
