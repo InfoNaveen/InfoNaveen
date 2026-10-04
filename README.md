@@ -1,302 +1,87 @@
-
-
-````md
-<div align="center">
-
-# NAVEEN.OS
-
-### AI × CYBERSECURITY × SOFTWARE ENGINEERING
-
-`STATUS: ONLINE` · `MODE: BUILD` · `LOCATION: INDIA`
-
-</div>
-
----
-
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   github.com/InfoNaveen                                      NAVEEN.OS       │
-│                                                                              │
-│   ┌───────────────────────────────┐     ┌────────────────────────────────┐   │
-│   │                               │     │ $ whoami                        │   │
-│   │          █████████            │     │                                │   │
-│   │        █████████████          │     │ Naveen Patil                   │   │
-│   │       ████  ███  ███         │     │ CSE Undergraduate              │   │
-│   │       ██████████████         │     │ Full-Stack / AI Engineer        │   │
-│   │        ████████████          │     │                                │   │
-│   │          ████████            │     │ $ focus                         │   │
-│   │        ████████████          │     │                                │   │
-│   │      ████████████████        │     │ AI Engineering                 │   │
-│   │     ██████████████████       │     │ Cybersecurity                  │   │
-│   │    ████████████████████      │     │ Developer Tools                │   │
-│   │                               │     │ Open Source                    │   │
-│   │      BUILD > BREAK >          │     │ Product Engineering            │   │
-│   │         FIX > SHIP            │     │                                │   │
-│   │                               │     │ $ philosophy                   │   │
-│   └───────────────────────────────┘     │                                │   │
-│                                         │ Build → Learn → Ship → Repeat  │   │
-│                                         └────────────────────────────────┘   │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-````
-
-## `$ whoami`
-
-I'm **Naveen Patil**, a Computer Science undergraduate and software builder interested in the intersection of **AI, cybersecurity, and product engineering**.
-
-I build things that solve real problems — from AI-powered financial tools and developer platforms to security automation and experimental products.
-
-I learn primarily by **building, breaking, fixing, and shipping**.
-
----
-
-## `$ cat current_focus.txt`
-
-```text
-[01] AI Engineering
-[02] Cybersecurity
-[03] Full-Stack Development
-[04] Developer Tooling
-[05] Open Source
-[06] Backend Engineering
-[07] Product & Startup Building
-```
-
----
-
-## `$ system --info`
-
-```text
-┌──────────────────────┬─────────────────────────────────────────────┐
-│ NAME                 │ Naveen Patil                               │
-│ ROLE                 │ Full-Stack / AI Engineer                   │
-│ EDUCATION            │ B.E. Computer Science & Engineering        │
-│ BASE                 │ Bengaluru, India                           │
-│ PRIMARY LANGUAGE     │ Java                                       │
-│ CURRENTLY LEARNING   │ C++ • FastAPI • AI Security • Open Source  │
-│ ENVIRONMENT          │ Linux / WSL                                │
-│ EDITOR               │ VS Code                                    │
-│ BUILD STYLE          │ Build → Break → Fix → Ship                 │
-└──────────────────────┴─────────────────────────────────────────────┘
-```
-
----
-
-# `$ ls ~/projects`
-
-### `01` — DevSentinel AI
-
-**Secure-by-Design Autonomous Development Platform**
-
-An AI-powered development workflow for auditing, testing and improving generated code before deployment.
-
-`Next.js` `TypeScript` `Supabase` `Gemini` `Snyk`
-
-🏆 **DevHack 7.0 Finalist · IIT Dharwad**
-
-→ [GitHub](https://github.com/InfoNaveen/DEVSENTINEL-AI)
-
----
-
-### `02` — FinSaathi
-
-**AI Financial Document Intelligence**
-
-An AI-powered financial document analyzer designed to surface important risks and information before users make financial decisions.
-
-`Next.js` `TypeScript` `Gemini`
-
-🏆 **Top 10 · Vibe-a-thon 2026**
-
-→ [Live Demo](https://finsaathi-three.vercel.app)
-
----
-
-### `03` — FinDoc Intelligence
-
-**Forensic Financial Document Analysis**
-
-A document intelligence pipeline for extracting, comparing and validating information across invoices, purchase orders and financial documents.
-
-`Python` `FastAPI` `AWS Bedrock` `Streamlit`
-
-🏆 **Finalist · HyperBots HyperAPI Hackathon 2026**
-
-→ [GitHub](https://github.com/InfoNaveen/FinDoc_Intelligence)
-
----
-
-### `04` — Startup Surakshate
-
-**AI-Assisted Application Security**
-
-A vulnerability analysis platform that transforms raw security findings into prioritized and actionable remediation guidance.
-
-`FastAPI` `Docker` `LLMs` `OWASP`
-
-🏆 **Top 7 · Mirai School of Technology Ideathon**
-
-→ [GitHub](https://github.com/InfoNaveen/Startup-Surakshate)
-
----
-
-### `05` — Mentora
-
-**AI-Powered Teaching Quality Analysis**
-
-A system exploring automated evaluation of teaching sessions using speech analysis, computer vision and retrieval-augmented AI.
-
-`Whisper` `OpenCV` `RAG`
-
-🏆 **AWS ImpactX Finalist · IIT Bombay**
-
-→ [GitHub](https://github.com/InfoNaveen/Mentora_AWS_ImpactX)
-
----
-
-# `$ cat stack.txt`
-
-### Languages
-
-`Java` `Python` `JavaScript` `TypeScript` `C` `C++` `SQL`
-
-### Frontend
-
-`React` `Next.js` `Tailwind CSS` `Vite`
-
-### Backend
-
-`Node.js` `Express` `FastAPI` `Flask`
-
-### Databases & Cloud
-
-`PostgreSQL` `MongoDB` `Supabase` `Cloudflare` `Docker`
-
-### AI / ML
-
-`Gemini` `OpenAI` `AWS Bedrock` `TensorFlow`
-`OpenCV` `scikit-learn` `Pandas` `NumPy` `RAG`
-
-### Security
-
-`Burp Suite` `Nmap` `Wireshark` `OWASP`
-`Web Security` `API Security` `Vulnerability Assessment`
-
-### Tools
-
-`Git` `GitHub` `VS Code` `Postman` `Vercel`
-`GitHub Copilot` `Cursor` `Kiro` `Antigravity`
-
----
-
-# `$ cat achievements.log`
-
-```text
-[+] AWS ImpactX Finalist                 @ IIT Bombay
-[+] DevHack 7.0 Finalist                 @ IIT Dharwad
-[+] SynthVerse                           Top 10
-[+] CodeSprint 4.0                       Top 40 / 500+
-[+] IDEATHON 7.0                         Top 10 / 100+
-[+] Google BuildWithIndia                Hackathon Participant
-[+] GSSoC                                Contributor
-[+] Cybersecurity Internship             Best Performer
-[+] Multiple Hackathons & CTFs
-```
-
----
-
-# `$ cat now.txt`
-
-```text
-[ACTIVE]
-
-→ Building real products
-→ Exploring AI security
-→ Learning backend engineering
-→ Contributing to open source
-→ Improving DSA & competitive programming
-→ Experimenting with startup ideas
-→ Shipping instead of waiting for perfect
-```
-
----
-
-# `$ cat philosophy.txt`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  BUILD FIRST.                                                │
-│                                                              │
-│  Learn by doing.                                             │
-│  Break things.                                               │
-│  Understand why.                                             │
-│  Fix them.                                                   │
-│  Ship.                                                       │
-│  Repeat.                                                     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `$ git log`
-
-```text
-build: AI-powered products
-build: security-first applications
-build: developer tools
-build: hackathon prototypes
-build: open-source contributions
-build: startup experiments
-
-fix: bugs I probably created myself
-refactor: becoming a better engineer
-```
-
----
-
-# `$ ./connect`
+<h1 align="center">Naveen Patil</h1>
 
 <p align="center">
+  <b>I build AI systems that audit things.</b><br/>
+  Generated code. Financial documents. Vulnerability reports. Classroom teaching.
+</p>
 
-<a href="https://naveen-patil.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/naveen-patil-3618b221a">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Naveen07Patil">
-<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:naveen.a.patil7@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="https://naveen-patil.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/naveen-patil-3618b221a">LinkedIn</a> ·
+  <a href="https://x.com/Naveen07Patil">X</a> ·
+  <a href="mailto:naveen.a.patil7@gmail.com">Email</a>
 </p>
 
 ---
 
-<div align="center">
+## The thesis
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│                 BUILDING USEFUL SOFTWARE                    │
-│                                                             │
-│                     ONE SHIP AT A TIME                      │
-│                                                             │
-│                         NAVEEN.OS                            │
-│                         v2026                                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+Generating is cheap now. Trusting is not.
+
+Almost everything I've built sits in that gap: a system takes something produced by a model, a vendor, or a rushed team, and checks it before a person has to bet on it. Code gets audited before it ships. Invoices get cross-checked before they get paid. Raw scanner output gets turned into a fix order before anyone has to read 400 findings.
+
+I'm a Computer Science undergraduate in Bengaluru. I learn by building, breaking, fixing and shipping, in that order.
+
+---
+
+## Work
+
+| Project | What it audits | Built with | Result |
+|---|---|---|---|
+| **[DevSentinel AI](https://github.com/InfoNaveen/DEVSENTINEL-AI)** | AI-generated code, before deployment | Next.js, TypeScript, Supabase, Gemini, Snyk | Finalist, DevHack 7.0, IIT Dharwad |
+| **[FinDoc Intelligence](https://github.com/InfoNaveen/FinDoc_Intelligence)** | Invoices, purchase orders and financial documents, against each other | Python, FastAPI, AWS Bedrock, Streamlit | Finalist, HyperBots HyperAPI Hackathon 2026 |
+| **[FinSaathi](https://finsaathi-three.vercel.app)** | Financial documents, for risks a user would miss | Next.js, TypeScript, Gemini | Top 10, Vibe-a-thon 2026 |
+| **[Startup Surakshate](https://github.com/InfoNaveen/Startup-Surakshate)** | Raw security findings, ranked into remediation steps | FastAPI, Docker, LLMs, OWASP | Top 7, Mirai School of Technology Ideathon |
+| **[Mentora](https://github.com/InfoNaveen/Mentora_AWS_ImpactX)** | Teaching sessions, via speech, vision and retrieval | Whisper, OpenCV, RAG | Finalist, AWS ImpactX, IIT Bombay |
+
+<details>
+<summary><b>More results</b></summary>
+<br/>
+
+- SynthVerse: Top 10
+- CodeSprint 4.0: Top 40 of 500+
+- IDEATHON 7.0: Top 10 of 100+
+- Google BuildWithIndia: participant
+- GSSoC: contributor
+- Cybersecurity internship: best performer
+- Multiple hackathons and CTFs
+
+</details>
+
+---
+
+## How I work
+
+```
+build  →  break  →  fix  →  ship
 ```
 
-**Build. Learn. Ship. Repeat.**
+I'd rather put an imperfect thing in front of real users this week than a perfect one next quarter. Then I attack it myself, because someone else will if I don't.
 
-</div>
-```
+---
+
+## Stack
+
+| | |
+|---|---|
+| **Languages** | Java (primary), Python, TypeScript, JavaScript, C, C++, SQL |
+| **Web** | React, Next.js, Tailwind CSS, Vite, Node.js, Express, FastAPI, Flask |
+| **Data and infra** | PostgreSQL, MongoDB, Supabase, Docker, Cloudflare, Vercel |
+| **AI** | Gemini, OpenAI, AWS Bedrock, RAG, TensorFlow, OpenCV, scikit-learn, Pandas, NumPy |
+| **Security** | Burp Suite, Nmap, Wireshark, OWASP, web and API security, vulnerability assessment |
+| **Workflow** | Linux and WSL, VS Code, Git, Postman, Cursor, Kiro, GitHub Copilot |
+
+---
+
+## Now
+
+- Learning C++, FastAPI and AI security
+- Contributing to open source
+- Working through DSA and competitive programming
+- Building products and testing startup ideas
+
+---
+
+<p align="center">
+  <b>If it can be generated, it can be wrong. I build the part that checks.</b>
+</p>
