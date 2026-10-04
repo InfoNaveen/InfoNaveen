@@ -7,7 +7,8 @@
 
 <p align="center">
   <a href="https://naveen-patil.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/naveen-patil-3618b221a">LinkedIn</a> ·
+  <a href="https://oasis.org.in">OASIS</a> ·
+  <a href="https://www.linkedin.com/in/naveen-patil-builder">LinkedIn</a> ·
   <a href="https://x.com/Naveen07Patil">X</a> ·
   <a href="mailto:naveen.a.patil7@gmail.com">Email</a>
 </p>
@@ -24,7 +25,19 @@ I'm a Computer Science undergraduate in Bengaluru. I learn by building, breaking
 
 ---
 
-## Work
+## OASIS
+
+**Founder, [OASIS](https://oasis.org.in)**: a student technology studio, running since January 2026.
+
+- Security reviews for **5+ client web applications**: found vulnerabilities, recommended fixes, and put secure coding practices in place.
+- **3+ client websites** shipped across real estate, hospitality and education, built around lead generation and the client's actual business requirements.
+- Full lifecycle on those projects: requirements, planning, deployment, SEO, accessibility, performance and ongoing maintenance.
+
+This is where the audit work meets real clients and real deadlines.
+
+---
+
+## Projects
 
 | Project | What it audits | Built with | Result |
 |---|---|---|---|
@@ -75,7 +88,7 @@ I'd rather put an imperfect thing in front of real users this week than a perfec
 
 ## Now
 
-- Learning C++, FastAPI and AI security
+- Learning Java, FastAPI and AI security
 - Contributing to open source
 - Working through DSA and competitive programming
 - Building products and testing startup ideas
