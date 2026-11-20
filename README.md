@@ -27,7 +27,7 @@ Models, vendors and rushed teams produce output faster than people can verify it
 
 - Code gets audited before it ships.
 - Invoices get cross-checked before they get paid.
-- 400 raw scanner findings become a short, ordered fix list.
+- Raw scanner findings become a short, ordered fix list.
 
 I learn by building, breaking, fixing and shipping, in that order.
 
@@ -38,17 +38,14 @@ I learn by building, breaking, fixing and shipping, in that order.
 ### 🛡️ [DevSentinel AI](https://github.com/InfoNaveen/DEVSENTINEL-AI) · Finalist, DevHack 7.0 (IIT Dharwad)
 Audits AI-generated code for security and quality issues before deployment.
 **Stack:** Next.js, TypeScript, Supabase, Gemini, Snyk
-**Proof:** `[one line: what it catches, e.g. "flags N issue types across M test repos"]` · [Demo](#) · [Write-up](#)
 
 ### 📄 [FinDoc Intelligence](https://github.com/InfoNaveen/FinDoc_Intelligence) · Finalist, HyperBots HyperAPI Hackathon 2026
 Cross-checks invoices, purchase orders and financial documents against each other to surface mismatches.
 **Stack:** Python, FastAPI, AWS Bedrock, Streamlit
-**Proof:** `[one line: e.g. "detects price / quantity / vendor mismatches across document sets"]` · [Demo](#)
 
 ### 🔐 [Startup Surakshate](https://github.com/InfoNaveen/Startup-Surakshate) · Top 7, Mirai School of Technology Ideathon
 Turns raw security scan output into a ranked, plain-language remediation plan.
 **Stack:** FastAPI, Docker, LLMs, OWASP
-**Proof:** `[one line: e.g. "reduces N findings to the top K fixes that matter"]`
 
 <details>
 <summary><b>More projects and results</b></summary>
@@ -73,15 +70,11 @@ Also: SynthVerse (Top 10) · CodeSprint 4.0 (Top 40 of 500+) · IDEATHON 7.0 (To
 - **3+ client websites shipped** across real estate, hospitality and education, built around lead generation and each client's actual requirements.
 - **Full lifecycle:** requirements, planning, deployment, SEO, accessibility, performance and ongoing maintenance.
 
-📎 Case study: `[link to one anonymised or permissioned engagement]`
-
 ---
 
 ## How I work
 
-```
-build  →  break  →  fix  →  ship
-```
+`build → break → fix → ship`
 
 I put real things in front of real users early, then attack them myself, because someone else will if I don't.
 
@@ -89,7 +82,7 @@ I put real things in front of real users early, then attack them myself, because
 
 ## Stack
 
-**Strongest (what I'd happily be interviewed on)**
+**Strongest**
 `Java` · `Python` · `TypeScript` · `Next.js` · `FastAPI` · `PostgreSQL` · `Supabase` · `Docker`
 
 **Working knowledge**
@@ -108,10 +101,10 @@ I put real things in front of real users early, then attack them myself, because
 
 ## Right now
 
-- 🔧 Building: `[current project, with a target ship date]`
 - 📚 Deepening: Java, FastAPI, and AI / LLM security
-- 🤝 Contributing: `[repo or org you're contributing to]`
-- 🧩 Practising: DSA and competitive programming
+- 🤝 Contributing to open source
+- 🧩 Practising DSA and competitive programming
+- 🚀 Building products and testing startup ideas
 
 ---
 
