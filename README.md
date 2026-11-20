@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>I build AI systems that audit things.</b><br/>
-  Generated code. Financial documents. Vulnerability reports. Classroom teaching.
+  Generated code · Financial documents · Vulnerability reports
 </p>
 
 <p align="center">
@@ -13,53 +13,67 @@
   <a href="mailto:naveen.a.patil7@gmail.com">Email</a>
 </p>
 
+<p align="center">
+  CS undergraduate, Bengaluru · Open to internships and security / AI engineering roles
+</p>
+
 ---
 
 ## The thesis
 
-Generating is cheap now. Trusting is not.
+> Generating is cheap now. Trusting is not.
 
-Almost everything I've built sits in that gap: a system takes something produced by a model, a vendor, or a rushed team, and checks it before a person has to bet on it. Code gets audited before it ships. Invoices get cross-checked before they get paid. Raw scanner output gets turned into a fix order before anyone has to read 400 findings.
+Models, vendors and rushed teams produce output faster than people can verify it. I build the layer in between: systems that check that output **before** someone has to bet on it.
 
-I'm a Computer Science undergraduate in Bengaluru. I learn by building, breaking, fixing and shipping, in that order.
+- Code gets audited before it ships.
+- Invoices get cross-checked before they get paid.
+- 400 raw scanner findings become a short, ordered fix list.
 
----
-
-## OASIS
-
-**Founder, [OASIS](https://oasis.org.in)**: a student technology studio, running since January 2026.
-
-- Security reviews for **5+ client web applications**: found vulnerabilities, recommended fixes, and put secure coding practices in place.
-- **3+ client websites** shipped across real estate, hospitality and education, built around lead generation and the client's actual business requirements.
-- Full lifecycle on those projects: requirements, planning, deployment, SEO, accessibility, performance and ongoing maintenance.
-
-This is where the audit work meets real clients and real deadlines.
+I learn by building, breaking, fixing and shipping, in that order.
 
 ---
 
-## Projects
+## Featured work
 
-| Project | What it audits | Built with | Result |
-|---|---|---|---|
-| **[DevSentinel AI](https://github.com/InfoNaveen/DEVSENTINEL-AI)** | AI-generated code, before deployment | Next.js, TypeScript, Supabase, Gemini, Snyk | Finalist, DevHack 7.0, IIT Dharwad |
-| **[FinDoc Intelligence](https://github.com/InfoNaveen/FinDoc_Intelligence)** | Invoices, purchase orders and financial documents, against each other | Python, FastAPI, AWS Bedrock, Streamlit | Finalist, HyperBots HyperAPI Hackathon 2026 |
-| **[FinSaathi](https://finsaathi-three.vercel.app)** | Financial documents, for risks a user would miss | Next.js, TypeScript, Gemini | Top 10, Vibe-a-thon 2026 |
-| **[Startup Surakshate](https://github.com/InfoNaveen/Startup-Surakshate)** | Raw security findings, ranked into remediation steps | FastAPI, Docker, LLMs, OWASP | Top 7, Mirai School of Technology Ideathon |
-| **[Mentora](https://github.com/InfoNaveen/Mentora_AWS_ImpactX)** | Teaching sessions, via speech, vision and retrieval | Whisper, OpenCV, RAG | Finalist, AWS ImpactX, IIT Bombay |
+### 🛡️ [DevSentinel AI](https://github.com/InfoNaveen/DEVSENTINEL-AI) · Finalist, DevHack 7.0 (IIT Dharwad)
+Audits AI-generated code for security and quality issues before deployment.
+**Stack:** Next.js, TypeScript, Supabase, Gemini, Snyk
+**Proof:** `[one line: what it catches, e.g. "flags N issue types across M test repos"]` · [Demo](#) · [Write-up](#)
+
+### 📄 [FinDoc Intelligence](https://github.com/InfoNaveen/FinDoc_Intelligence) · Finalist, HyperBots HyperAPI Hackathon 2026
+Cross-checks invoices, purchase orders and financial documents against each other to surface mismatches.
+**Stack:** Python, FastAPI, AWS Bedrock, Streamlit
+**Proof:** `[one line: e.g. "detects price / quantity / vendor mismatches across document sets"]` · [Demo](#)
+
+### 🔐 [Startup Surakshate](https://github.com/InfoNaveen/Startup-Surakshate) · Top 7, Mirai School of Technology Ideathon
+Turns raw security scan output into a ranked, plain-language remediation plan.
+**Stack:** FastAPI, Docker, LLMs, OWASP
+**Proof:** `[one line: e.g. "reduces N findings to the top K fixes that matter"]`
 
 <details>
-<summary><b>More results</b></summary>
+<summary><b>More projects and results</b></summary>
 <br/>
 
-- SynthVerse: Top 10
-- CodeSprint 4.0: Top 40 of 500+
-- IDEATHON 7.0: Top 10 of 100+
-- Google BuildWithIndia: participant
-- GSSoC: contributor
-- Cybersecurity internship: best performer
-- Multiple hackathons and CTFs
+| Project | What it does | Result |
+|---|---|---|
+| [FinSaathi](https://finsaathi-three.vercel.app) | Flags financial-document risks a user would miss (Next.js, TypeScript, Gemini) | Top 10, Vibe-a-thon 2026 |
+| [Mentora](https://github.com/InfoNaveen/Mentora_AWS_ImpactX) | Analyses teaching sessions with speech, vision and retrieval (Whisper, OpenCV, RAG) | Finalist, AWS ImpactX, IIT Bombay |
+
+Also: SynthVerse (Top 10) · CodeSprint 4.0 (Top 40 of 500+) · IDEATHON 7.0 (Top 10 of 100+) · GSSoC contributor · Google BuildWithIndia participant · Cybersecurity internship (best performer)
 
 </details>
+
+---
+
+## OASIS: client work
+
+**Founder, [OASIS](https://oasis.org.in)** · student technology studio, since January 2026
+
+- **Security reviews for 5+ client web applications:** found vulnerabilities, recommended fixes, and helped put secure coding practices in place.
+- **3+ client websites shipped** across real estate, hospitality and education, built around lead generation and each client's actual requirements.
+- **Full lifecycle:** requirements, planning, deployment, SEO, accessibility, performance and ongoing maintenance.
+
+📎 Case study: `[link to one anonymised or permissioned engagement]`
 
 ---
 
@@ -69,32 +83,39 @@ This is where the audit work meets real clients and real deadlines.
 build  →  break  →  fix  →  ship
 ```
 
-I'd rather put an imperfect thing in front of real users this week than a perfect one next quarter. Then I attack it myself, because someone else will if I don't.
+I put real things in front of real users early, then attack them myself, because someone else will if I don't.
 
 ---
 
 ## Stack
 
-| | |
-|---|---|
-| **Languages** | Java (primary), Python, TypeScript, JavaScript, C, C++, SQL |
-| **Web** | React, Next.js, Tailwind CSS, Vite, Node.js, Express, FastAPI, Flask |
-| **Data and infra** | PostgreSQL, MongoDB, Supabase, Docker, Cloudflare, Vercel |
-| **AI** | Gemini, OpenAI, AWS Bedrock, RAG, TensorFlow, OpenCV, scikit-learn, Pandas, NumPy |
-| **Security** | Burp Suite, Nmap, Wireshark, OWASP, web and API security, vulnerability assessment |
-| **Workflow** | Linux and WSL, VS Code, Git, Postman, Cursor, Kiro, GitHub Copilot |
+**Strongest (what I'd happily be interviewed on)**
+`Java` · `Python` · `TypeScript` · `Next.js` · `FastAPI` · `PostgreSQL` · `Supabase` · `Docker`
+
+**Working knowledge**
+`React` · `Node.js` · `Tailwind CSS` · `MongoDB` · `SQL` · `C / C++`
+
+**AI**
+`Gemini` · `OpenAI` · `AWS Bedrock` · `RAG` · `OpenCV` · `scikit-learn`
+
+**Security**
+`OWASP` · `Burp Suite` · `Nmap` · `Wireshark` · web and API security
+
+**Tools**
+`Linux / WSL` · `Git` · `Postman` · `VS Code` · `Cursor`
 
 ---
 
-## Now
+## Right now
 
-- Learning Java, FastAPI and AI security
-- Contributing to open source
-- Working through DSA and competitive programming
-- Building products and testing startup ideas
+- 🔧 Building: `[current project, with a target ship date]`
+- 📚 Deepening: Java, FastAPI, and AI / LLM security
+- 🤝 Contributing: `[repo or org you're contributing to]`
+- 🧩 Practising: DSA and competitive programming
 
 ---
 
 <p align="center">
-  <b>If it can be generated, it can be wrong. I build the part that checks.</b>
+  <b>If it can be generated, it can be wrong. I build the part that checks.</b><br/>
+  <a href="mailto:naveen.a.patil7@gmail.com">Let's talk →</a>
 </p>
